@@ -1,16 +1,14 @@
-## Hi there 👋
 
-<!--
-**Chuva-v/Chuva-v** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<table align="center" border="0" cellpadding="10" cellspacing="0">
+  <tr>
+    <td>
+      <b> EAI BELEZA </b>
+    </td>
+    <td>
+      <img src="https://i.pinimg.com/originals/b6/2b/d6/b62bd653a5ea86726d1b28b9cfc9916d.gif"
+        width="100"
+        height="100"
+      >
+    </td>
+  </tr>
+</table>
