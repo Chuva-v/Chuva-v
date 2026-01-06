@@ -1,8 +1,6 @@
 
 
 <div align="center">
-  <img src="https://i.pinimg.com/originals/41/65/56/4165563df17705bd040dc972485d77d9.gif" width="auto" height="auto">
-  <br><br>
   <!-- TÍTULO (SVG com fonte custom) -->
   
   <h1><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=30&duration=3000&pause=1000&color=0AAAB4&center=true&vCenter=true&repeat=false&width=500&height=40&lines=Eai%2C+Eu+sou+Ivan" alt="Typing SVG" /></a></h1>
@@ -58,4 +56,4 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Chuva-v&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
-
+<img src="https://i.pinimg.com/originals/41/65/56/4165563df17705bd040dc972485d77d9.gif" width="auto" height="auto">
