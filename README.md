@@ -3,10 +3,10 @@
 <div align="center">
   <!-- TÍTULO (SVG com fonte custom) -->
   
-  <h1><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=30&duration=3000&pause=1000&color=0AAAB4&center=true&vCenter=true&repeat=false&width=500&height=40&lines=Eai%2C+Eu+sou+Ivan" alt="Typing SVG" /></a></h1>
+  <h1><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=30&duration=3000&pause=1000&color=ededed&center=true&vCenter=true&repeat=false&width=500&height=40&lines=Ivan" alt="Typing SVG" /></a></h1>
   <br>
   
-  <img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+  <img align="right" width="auto" height="150" src="https://i.pinimg.com/originals/4e/98/ed/4e98ed37d7a8747864cc8018cd67bf9f.gif"  />
 
   ###
   
@@ -36,20 +36,18 @@
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+    
   </div>
   
   ###
 
 </div>
-
+<br>
 <!-- --------------------------sobre----------------------------- -->
 <h2>
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=22&duration=3000&pause=1000&color=0AAAB4&vCenter=true&repeat=false&width=450&lines=Sobre" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=22&duration=3000&pause=1000&color=ededed&vCenter=true&repeat=false&width=450&lines=Sobre" alt="Typing SVG" /></a>
 </h2>
 
 
 
 <!-- -------------------------------------------------------------- -->
-
-
-<img src="https://i.pinimg.com/originals/41/65/56/4165563df17705bd040dc972485d77d9.gif" width="auto" height="auto">
