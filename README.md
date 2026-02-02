@@ -49,7 +49,7 @@
 </h2>
 <p>
   Sou estudante de Engenharia da Computação, com formação técnica em Análise e Desenvolvimento de Sistemas. 
-  Curto arte, cibersegurança, programação e hardware.
+  Curto arte, cibersegurança, programação e hardware. Busco evolução profissional e aprender coisas novas.
 </p>
 
 
