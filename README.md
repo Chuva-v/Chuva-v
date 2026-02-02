@@ -48,7 +48,7 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=22&duration=3000&pause=1000&color=ededed&vCenter=true&repeat=false&width=450&lines=Sobre" alt="Typing SVG" /></a>
 </h2>
 <p>
-  Sou estudante de Engenharia da Computação, com formação técnica em Análise e Desenvolvimento de Sistemas. 
+  Sou estudante de Engenharia da Computação, tenho formação técnica em Análise e Desenvolvimento de Sistemas. 
   Curto arte, cibersegurança, programação e hardware. Busco evolução profissional e aprender coisas novas.
 </p>
 
